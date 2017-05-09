@@ -1,0 +1,148 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0px;
+}
+
+.cambia{
+  width: 600px;
+  position: relative;
+}
+
+.lienzo{
+  padding: 50%;
+  /*background-color: blue;*/
+  position: absolute;
+}
+
+.left_top{
+  padding: 25%;
+  /*background-color: white;*/
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.right_top{
+  padding: 25%;
+  /*background-color: red;*/
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.left_botton{
+  padding: 25%;
+  /*background-color: pink;*/
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+
+.right_botton{
+  padding: 25%;
+  /*background-color: yellow;*/
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+
+.cuadro_1{
+  padding: 5% 10%;
+  background-color: black;
+  position: absolute;
+  bottom: 0px;
+  right: 20%;
+}
+
+.cuadro_2{
+  padding: 5% 10%;
+  background-color: black;
+  position: absolute;
+  bottom: 0px;
+  left: 20%;
+}
+
+.cuadro_3{
+  padding: 5% 10%;
+  background-color: black;
+  position: absolute;
+  top: 0px;
+  right: 20%;
+}
+
+.cuadro_4{
+  padding: 5% 10%;
+  background-color: black;
+  position: absolute;
+  top: 0px;
+  left: 20%;
+}
+
+.h_vertical_1{
+  padding: 45% 10%;
+  background-color: black;
+  position: absolute;
+  bottom: 10%;
+  right: 40%;
+}
+
+.h_horinzontal_1{
+  padding: 10% 30% ;
+  background-color: black;
+  position: absolute;
+  top: 0%;
+  right: 40%;
+}
+
+
+.h_vertical_2{
+  padding: 45% 10%;
+  background-color: black;
+  position: absolute;
+  bottom: 10%;
+  left: 40%;
+}
+
+.h_horinzontal_2{
+  padding: 10% 30% ;
+  background-color: black;
+  position: absolute;
+  top: 0%;
+  left: 40%;
+}
+
+.h_vertical_3{
+  padding: 45% 10%;
+  background-color: black;
+  position: absolute;
+  top: 10%;
+  left: 40%;
+}
+
+.h_horinzontal_3{
+  padding: 10% 30% ;
+  background-color: black;
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+}
+
+.h_vertical_4{
+  padding: 45% 10%;
+  background-color: black;
+  position: absolute;
+  top: 10%;
+  left: 40%;
+}
+
+.h_horinzontal_4{
+  padding: 10% 30% ;
+  background-color: black;
+  position: absolute;
+  bottom: 0%;
+  left: 40%;
+}
