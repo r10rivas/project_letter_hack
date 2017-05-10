@@ -6,12 +6,12 @@ body{
   margin: 0px;
 }
 
-.cambia{
+.change_factor{
   width: 600px;
   position: relative;
 }
 
-.lienzo{
+.canvas{
   padding: 50%;
   /*background-color: blue;*/
   position: absolute;
@@ -50,7 +50,7 @@ body{
 }
 
 
-.cuadro_1{
+.square_1{
   padding: 5% 10%;
   background-color: black;
   position: absolute;
@@ -58,7 +58,7 @@ body{
   right: 20%;
 }
 
-.cuadro_2{
+.square_2{
   padding: 5% 10%;
   background-color: black;
   position: absolute;
@@ -66,7 +66,7 @@ body{
   left: 20%;
 }
 
-.cuadro_3{
+.square_3{
   padding: 5% 10%;
   background-color: black;
   position: absolute;
@@ -74,7 +74,7 @@ body{
   right: 20%;
 }
 
-.cuadro_4{
+.square_4{
   padding: 5% 10%;
   background-color: black;
   position: absolute;
@@ -82,7 +82,7 @@ body{
   left: 20%;
 }
 
-.h_vertical_1{
+.vertical_1{
   padding: 45% 10%;
   background-color: black;
   position: absolute;
@@ -90,7 +90,7 @@ body{
   right: 40%;
 }
 
-.h_horinzontal_1{
+.horinzontal_1{
   padding: 10% 30% ;
   background-color: black;
   position: absolute;
@@ -99,7 +99,7 @@ body{
 }
 
 
-.h_vertical_2{
+.vertical_2{
   padding: 45% 10%;
   background-color: black;
   position: absolute;
@@ -107,7 +107,7 @@ body{
   left: 40%;
 }
 
-.h_horinzontal_2{
+.horinzontal_2{
   padding: 10% 30% ;
   background-color: black;
   position: absolute;
@@ -115,7 +115,7 @@ body{
   left: 40%;
 }
 
-.h_vertical_3{
+.vertical_3{
   padding: 45% 10%;
   background-color: black;
   position: absolute;
@@ -123,7 +123,7 @@ body{
   left: 40%;
 }
 
-.h_horinzontal_3{
+.horinzontal_3{
   padding: 10% 30% ;
   background-color: black;
   position: absolute;
@@ -131,7 +131,7 @@ body{
   left: 0%;
 }
 
-.h_vertical_4{
+.vertical_4{
   padding: 45% 10%;
   background-color: black;
   position: absolute;
@@ -139,7 +139,7 @@ body{
   left: 40%;
 }
 
-.h_horinzontal_4{
+.horinzontal_4{
   padding: 10% 30% ;
   background-color: black;
   position: absolute;
